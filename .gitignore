@@ -1,0 +1,11 @@
+# binaires et fichiers objets
+*.o
+*.gch
+*.out
+a.out
+prog
+*.dSYM/
+
+# macOS
+.DS_Store
+.vscode/
